@@ -1,17 +1,33 @@
-# MediAssistAI-Multi-Agent-Clinical-Decision-Support-System
+# MediAssistAI
 
-Key Features
+Multi-Agent Clinical Decision Support System
 
-Multi-agent architecture for symptom analysis, diagnosis generation, risk assessment, and treatment recommendations.
-Retrieval-Augmented Generation (RAG) using a medical knowledge base.
-Research agent for evidence-based medical insights.
-LangGraph workflow orchestration and state management.
-Interactive Streamlit dashboard for patient case analysis.
+## Features
 
-What to Keep
+- Symptom Analysis Agent
+- Risk Assessment Agent
+- Cardiology Agent
+- Pulmonology Agent
+- Neurology Agent
+- Psychology Agent
+- Supervisor Agent
+- Gemini Integration
+- Streamlit Dashboard
 
- Multi-agent idea,
- Workflow orchestration,
- State management,
- Medical reasoning pipeline,
- Knowledge retrieval concepts
+## Installation
+
+pip install -r requirements.txt
+
+## Run
+
+python app.py
+
+## Dashboard
+
+streamlit run dashboard/streamlit_app.py
+
+## Disclaimer
+
+Educational and research use only.
+
+Not intended for medical diagnosis.
