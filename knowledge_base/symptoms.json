@@ -1,0 +1,6 @@
+{
+  "fever": "Body temperature elevation",
+  "cough": "Respiratory symptom",
+  "headache": "Neurological symptom",
+  "fatigue": "General symptom"
+}
