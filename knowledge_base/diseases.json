@@ -1,0 +1,23 @@
+{
+  "influenza": {
+    "symptoms": [
+      "fever",
+      "cough",
+      "fatigue"
+    ]
+  },
+
+  "asthma": {
+    "symptoms": [
+      "shortness of breath",
+      "wheezing"
+    ]
+  },
+
+  "migraine": {
+    "symptoms": [
+      "headache",
+      "nausea"
+    ]
+  }
+}
