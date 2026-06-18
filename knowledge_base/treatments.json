@@ -1,0 +1,12 @@
+{
+  "influenza": [
+    "Rest",
+    "Hydration",
+    "Medical consultation"
+  ],
+
+  "asthma": [
+    "Medical evaluation",
+    "Avoid triggers"
+  ]
+}
